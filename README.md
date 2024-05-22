@@ -13,7 +13,8 @@ Next.js를 이용하여 Reddit을 모티브로 한 CRUD입니다.
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/TypeORM-4479A1?style=flat&logo=TypeORM&logoColor=white" />
+  
 * * *
 
 
